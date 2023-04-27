@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Week02</string>
+    <string name="message">Welcome to android</string>
+    <string name="button">button</string>
+    <string name="button2">button 2</string>
+    <string name="large_text">large text</string>
+    <string name="app_name">Demo My Login App</string>
 </resources>
